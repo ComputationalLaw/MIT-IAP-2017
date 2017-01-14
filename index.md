@@ -2,9 +2,9 @@
 
 ## Course Pages:
 
-* The DataVR Module GitHub Pages site, see: http://DataVR.xyz
+* The DataVR Module GitHub Pages site: http://DataVR.xyz and https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR
 
-* For the web interface of this repo, see:  https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR
+* This is a module of the MIT/IAP 2017 Computational Law Course: https://law.mit.edu/Computational-Law-Course
 
 ## Course Tutorials:
 
