@@ -1,6 +1,14 @@
 # DataVR
 
 
-For the GitHub Pages site, see: http://DataVR.xyz
+## Course Pages:
 
-For the web interface of this repo, see:  https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR
+* For the GitHub Pages site, see: http://DataVR.xyz
+
+* For the web interface of this repo, see:  https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR
+
+## Course Tutorials:
+
+* Simmetri tutorial, by Amedeo Mapelli: http://simmetri.com/tutorials.html
+
+* A-Frame tutorial, by Stephanie Mendoza: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/blob/gh-pages/Resources/WebVR.pdf
