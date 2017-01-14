@@ -1,6 +1,6 @@
 # Computational Law: DataVR Module
 
-This DataVR Module splash page is accessible at: http://DataVR.xyz and https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR
+This DataVR Module splash page is accessible at: [http://DataVR.xyz](http://DataVR.xyz) and https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR
 
 The DataVR module is part of the MIT/IAP Computational Law Course: https://law.mit.edu/Computational-Law-Course
 
