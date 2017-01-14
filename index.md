@@ -1,3 +1,18 @@
+# Computational Law: DataVR Module
+
+## Course Pages:
+
+* The DataVR Module GitHub Pages site, see: http://DataVR.xyz
+
+* For the web interface of this repo, see:  https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR
+
+## Course Tutorials:
+
+* Simmetri tutorial, by Amedeo Mapelli: http://simmetri.com/tutorials.html
+
+* A-Frame tutorial, by Stephanie Mendoza: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/blob/gh-pages/Resources/WebVR.pdf
+
+
 **Below is a running content collection of possible inputs to the upcoming January 2017 MIT/IAP Legal Analytics Workshop**
 
 # VR for Data Exploration
@@ -82,26 +97,4 @@
 
 [StandardLaw/starship: Enterprise Data Visualisation for the Next Generation](https://github.com/StandardLaw/starship)
 
-
-# Legal Analytics Resources
-
-## Simulating Court Judgments in New Situations
-
-An innovative set of situational classifications by areas of legal practice using AI and extensive ML expert training .  According to the [BLUE J site](http://www.bluejlegal.com/blue-j): 
-
-> "Blue J allows you to simulate the judgment of a court in a new situation. Using advances in artificial intelligence and extensive training by computer scientists and law professors from the University of Toronto, Blue J helps you to navigate uncertainty when there are competing reasonable arguments. 
- 
-> Blue J analyzes fact situations using deep learning, discovering in seconds hidden patterns in the case law. It provides answers, links to relevant cases, and generates tailored explanations of its analysis. When using Blue J you'll always know how confident it is in its conclusion, why it reached that result, and what to consider next."
-
-### REAL ESTATE TRANSACTION CLASSIFIER
-* Determine if gains on the sale of real estate are income from business or capital gains.
-### CURRENT VERSUS CAPITAL CLASSIFIERS
-* Determine whether an expenditure is a current expense or a capital expenditure for tax purposes.
-### RESIDENCY CLASSIFIER
-* Determine if an individual is a resident of Canada or of another country for tax purposes.
-### WORKER CLASSIFIER
-* Determine if a worker is an employee or an independent contractor.
-### HOME OFFICE CLASSIFIER
-* Determine if expenses related to a work space in the home can be deducted for tax purposes.
-# Working Resources and Tutorials:
 
