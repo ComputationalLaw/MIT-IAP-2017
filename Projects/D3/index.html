@@ -55,6 +55,13 @@
           var y = -(i/data.length)*360;
           return x + " " + y + " " + z
         },
+        color: function(d) { 
+          if (d > 50) {
+            return "red";
+          } else {
+            return "green";
+          }
+        },
         width: function(d) { return 0.5},
         depth: function(d) { return 0.9},
         height: function(d) { return hscale(d)},
