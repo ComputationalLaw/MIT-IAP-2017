@@ -8,8 +8,8 @@ The DataVR module is part of the MIT/IAP Computational Law Course: [https://law.
 
 * Simmetri tutorial, by Amedeo Mapelli: [http://simmetri.com/tutorials.html](http://simmetri.com/tutorials.html)
 
-* A-Frame tutorial, by Stephanie Mendoza: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/blob/gh-pages/Resources/WebVR.pdf
+* A-Frame tutorial, by Stephanie Mendoza: [https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/blob/gh-pages/Resources/WebVR.pdf](https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/blob/gh-pages/Resources/WebVR.pdf)
 
 ## DataVR Links and Resources: 
 
-* https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Resources-and-Links
+* [https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Resources-and-Links](https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Resources-and-Links)
