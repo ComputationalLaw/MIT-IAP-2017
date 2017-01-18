@@ -2,6 +2,8 @@
 
 Welcome to the information page for a special two-day module exploring use of "Virtual Reality and Augmented Reality for Data Analytics" (aka "DataVR" for short).  This module is part of the [2017 MIT/IAP Computational Law Course](https://law.mit.edu/Computational-Law-Course).
 
+* Working Syllabus: https://docs.google.com/document/d/1reljPcEXQR1CSgwPci0iwTRM7o9CDqnBJIpsKA8hxRY/pub
+
 ## DataVR Tutorials:
 
 * Simmetri tutorial, by Amedeo Mapelli: [http://simmetri.com/tutorials.html](http://simmetri.com/tutorials.html)
