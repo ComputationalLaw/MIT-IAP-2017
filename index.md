@@ -1,8 +1,6 @@
 # Computational Law: DataVR Module
 
-This DataVR Module splash page is accessible at: [http://DataVR.xyz](http://DataVR.xyz) and [https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR](https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR)
-
-The DataVR module is part of the MIT/IAP Computational Law Course: [https://law.mit.edu/Computational-Law-Course](https://law.mit.edu/Computational-Law-Course)
+Welcome to the working resouorces site for a special two-day module exploring use of "Virtual Reality and Augmented Reality for Data Analytics" (aka "DataVR" for short).  This module is part of the [2017 MIT/IAP Computational Law Course](https://law.mit.edu/Computational-Law-Course).
 
 ## DataVR Tutorials:
 
@@ -21,3 +19,5 @@ Amedeo Mapelli and members of his team will be on hand during the DataVR Module 
 ## DataVR Links and Resources: 
 
 * [https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Resources-and-Links](https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/wiki/Resources-and-Links)
+
+* This DataVR Module splash page is accessible at: [http://DataVR.xyz](http://DataVR.xyz) and [https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR](https://ComputationalLaw.github.io/MIT-IAP-2017-DataVR)
