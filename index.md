@@ -7,9 +7,11 @@ Welcome to the information page for a special two-day module exploring use of "V
 * **Questions?** If you are enrolled in the course, use our GiHub issues tool and a course instructor or volunteer will reply directly: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/issues/new 
 * Course Page: https://law.mit.edu/Computational-Law-Course
 * DataVR Module: http://datavr.xyz  
-* DataVR Module Online Participation Page: http://datavr.xyz/Online
 * Working Syllabus: https://docs.google.com/document/d/1reljPcEXQR1CSgwPci0iwTRM7o9CDqnBJIpsKA8hxRY/pub
 
+## Participating Online?
+
+* DataVR Module Online Participation Page: http://datavr.xyz/Online
 
 ## DataVR Tutorials:
 
