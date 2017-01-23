@@ -2,7 +2,14 @@
 
 Welcome to the information page for a special two-day module exploring use of "Virtual Reality and Augmented Reality for Data Analytics" (aka "DataVR" for short).  This module is part of the [2017 MIT/IAP Computational Law Course](https://law.mit.edu/Computational-Law-Course).
 
+## Key Links for The DataVR Course Module
+
+* **Questions?** If you are enrolled in the course, use our GiHub issues tool and a course instructor or volunteer will reply directly: https://github.com/ComputationalLaw/MIT-IAP-2017-DataVR/issues/new 
+* Course Page: https://law.mit.edu/Computational-Law-Course
+* DataVR Module: http://datavr.xyz  
+* DataVR Module Online Participation Page: http://datavr.xyz/Online
 * Working Syllabus: https://docs.google.com/document/d/1reljPcEXQR1CSgwPci0iwTRM7o9CDqnBJIpsKA8hxRY/pub
+
 
 ## DataVR Tutorials:
 
