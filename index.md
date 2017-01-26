@@ -13,6 +13,12 @@ Welcome to the information page for a special two-day module exploring use of "V
 
 ![img_1500](https://cloud.githubusercontent.com/assets/2357755/22321499/5f38f610-e363-11e6-8add-8300c880dbeb.JPG)
 
+
+<img width="1280" alt="xyz" src="https://cloud.githubusercontent.com/assets/2357755/22325316/764c5fc8-e37b-11e6-88bf-b9d5dd7634a6.png">
+
+<img width="748" alt="xyz2" src="https://cloud.githubusercontent.com/assets/2357755/22325399/cf7eefde-e37b-11e6-9d68-ba7e4026576e.png">
+
+
 ![img_1479](https://cloud.githubusercontent.com/assets/2357755/22321551/c56416cc-e363-11e6-83b5-a0ec5648c123.JPG)
 
 ![img_1487](https://cloud.githubusercontent.com/assets/2357755/22321653/89f8cd48-e364-11e6-8e30-c2097f5fa1c1.JPG)
